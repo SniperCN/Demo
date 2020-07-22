@@ -1,0 +1,23 @@
+# maven ignore
+/target/
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# log
+/logs/
+
+# resources
+/src/main/resources/
+
+# system ignore
+.DS_Store
+Thumbs.db
